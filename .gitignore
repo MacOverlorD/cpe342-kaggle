@@ -1,0 +1,16 @@
+# data and heavy artefacts (Kaggle provides the data; Task 4 images come from the Drive link in task4/README.md)
+**/train.csv
+**/test.csv
+task4/train/
+task4/test/
+*.pt
+catboost_info/
+__pycache__/
+.ipynb_checkpoints/
+# course PDF and local scratch files (never committed)
+*.pdf
+_local/
+# not needed to reproduce the answers
+sample_submission.csv
+# answers are not published (produced by running the notebooks)
+submission*.csv

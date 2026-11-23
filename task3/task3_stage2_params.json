@@ -1,0 +1,13 @@
+{
+ "params": {
+  "num_leaves": 15,
+  "min_child_samples": 142,
+  "colsample_bytree": 0.6948554175905912,
+  "subsample": 0.9593309926859862,
+  "reg_lambda": 0.007513906343898897,
+  "reg_alpha": 0.9099050130228155
+ },
+ "hand_score": -0.13698921665033723,
+ "best_score": -0.13643065068116716,
+ "trials": 40
+}
